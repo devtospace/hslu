@@ -1,4 +1,4 @@
-# hslu
+# HSLU
 
 ## BIA Opensource BI-Frameworks
 
